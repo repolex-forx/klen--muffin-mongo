@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/muffin-mongo/commit/fdfa40b2b6aa4eed418a76a6d45972b84a56ae10",
       "git:hexsha": "fdfa40b2b6aa4eed418a76a6d45972b84a56ae10",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "0.6.1"
     },
     {
